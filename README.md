@@ -1,5 +1,5 @@
 # idea-config
-###idea的基本配置
+### idea的基本配置
 1、设置编码格式为utf8  
 这个肯定是装上一个ide就要设置的，不然数据各种乱码，还有一个编码相关的设置是idea里面的tomcat启动的时候，如果控制台有乱码的话可以在tomcat配置界面的VM选项加上-Dfile.encoding=UTF-8  
 2、设置maven路径  
